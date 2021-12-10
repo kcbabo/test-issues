@@ -43,7 +43,7 @@ body:
     attributes:
       label: Additional Context
       placeholder: 
-        - Customer or prospect
-        - Gloo Mesh version
-        - Kubernetes version
-        - service mesh and version (if applicable, e.g. Istio 1.7)
+        Customer or prospect
+        Gloo Mesh version
+        Kubernetes version
+        service mesh and version (if applicable, e.g. Istio 1.7)
