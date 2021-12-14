@@ -3,4 +3,6 @@ contact_links:
   - name: Solo.io Slack
     url: https://slack.solo.io
     about: For a fast response, consider asking your question on the Solo slack.
-      Also, please check out `https://docs.solo.io/gloo-mesh/latest` for documentation and guides.
+  - name: Solo.io Documentation
+    url: https://docs.solo.io/gloo-mesh/latest
+    about: Check out the Troubleshooting session of the Gloo Mesh docs.
